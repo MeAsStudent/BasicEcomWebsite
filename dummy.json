@@ -1,0 +1,201 @@
+{
+  "allproducts": [
+    {
+      "Img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/storm-blue_7a6ad3db-a96c-4c7d-9db6-e48b0d7ad0f0_600x.png?v=1623843227",
+      "Name": "BOAT",
+      "Description": "Boat smart watch STORM",
+      "LongDescription": " Ipsum has",
+      "id": 1,
+      "Category": "Electronics",
+      "points": 2500
+    },
+    {
+      "Img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_529ecf13-c993-4fe7-a2d6-9357f1a47db4_600x.png?v=1650387008",
+      "Name": "BOAT",
+      "Description": "Boat extend smart watch Alexa Built-in",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 2,
+      "Category": "Electronics",
+      "points": 2000
+    },
+    {
+      "Img": "https://m.media-amazon.com/images/I/41pkp5UOJVL._SS40_.jpg",
+      "Name": "IGEAR",
+      "Description": "iGear Dynamo",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 3,
+      "Category": "Electronics",
+      "points": 4000
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/128/128/ktvucnk0/headphone/q/o/9/air-buds-mini-truly-wireless-noise-original-imag74hycpspckgk.jpeg?q=70",
+      "Name": "NOISE",
+      "Description": "Noise Airbuds mini truly",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 4,
+      "Category": "Electronics",
+      "points": 500
+    },
+    {
+      "Img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_2_600x.png?v=1628515212",
+      "Name": "BOAT",
+      "Description": "Boat TWS Airpods 138 wireless",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 5,
+      "Category": "Electronics",
+      "points": 1100
+    },
+    {
+      "Img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/e7910a39-186a-41f6-ac57-fc3e84108104_600x.png?v=1625045106",
+      "Name": "WATCH",
+      "Description": "Smart watch with alexa built in",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 6,
+      "Category": "Electronics",
+      "points": 1200
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/612/612/xif0q/sock/k/m/6/free-6-mtr-b-line-06-metronaut-original-imaghusgytynjfhh.jpeg?q=70",
+      "Name": "SHOES",
+      "Description": "METRONAUT Men & Women Striped Ankle",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 7,
+      "Category": "Sports",
+      "points": 2000
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/402/482/krxtrww0/vest/z/y/1/95-999-rn-white-95-5-silver-stork-original-imag5mhymbmgcshj.jpeg?q=70",
+      "Name": "Man vest",
+      "Description": "SILVER STORK Pack of 5 Men Vest",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 8,
+      "Category": "Sports",
+      "points": 500
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/y/u/o/-original-imaghvb3gmh7t9zg.jpeg?q=70",
+      "Name": "Running Shoea",
+      "Description": "Running Shoes For Men  (Black)",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 9,
+      "Category": "Sports",
+      "points": 3000
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/832/832/k1i6ikw0/kit/y/k/w/gym-bag-for-men-combo-blue-body-building-gym-bag-blue-gloves-original-imafh2azyyfszctm.jpeg?q=70",
+      "Name": "SPORTS gym bag",
+      "Description": "5 O' CLOCK SPORTS gym bag for men",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 10,
+      "Category": "Sports",
+      "points": 1000
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/832/832/k1i6ikw0/kit/y/k/w/gym-bag-for-men-combo-blue-body-building-gym-bag-blue-gloves-original-imafh2azyyfszctm.jpeg?q=70",
+      "Name": "SPORTS gym bag",
+      "Description": "5 O' CLOCK SPORTS gym bag for men",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 11,
+      "Category": "Sports",
+      "points": 4000
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/832/832/k1i6ikw0/kit/y/k/w/gym-bag-for-men-combo-blue-body-building-gym-bag-blue-gloves-original-imafh2azyyfszctm.jpeg?q=70",
+      "Name": "SPORTS gym bag",
+      "Description": "5 O' CLOCK SPORTS gym bag for men",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 12,
+      "Category": "Sports",
+      "points": 2500
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/128/128/kwl0akw0/suitcase/d/x/b/-original-imag98fpre3xhtae.jpeg?q=70",
+      "Name": "WILDCRAFT",
+      "Description": "Wildcraft red daan",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 13,
+      "Category": "Travel",
+      "points": 1750
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/128/128/kwl0akw0/suitcase/d/x/b/-original-imag98fpre3xhtae.jpeg?q=70",
+      "Name": "WILDCRAFT",
+      "Description": "Wildcraft red daan",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 14,
+      "Category": "Travel",
+      "points": 1750
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/128/128/kwl0akw0/suitcase/d/x/b/-original-imag98fpre3xhtae.jpeg?q=70",
+      "Name": "WILDCRAFT",
+      "Description": "Wildcraft red daan",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 15,
+      "Category": "Travel",
+      "points": 1750
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/612/612/k3dc7m80/chyawanprash/g/v/h/1-special-chyawanprash-with-saffron-patanjali-original-imafmge5jacfytbg.jpeg?q=70",
+      "Name": "PATANJALI Chyawanprash",
+      "Description": "PATANJALI Special Chyawanprash with Saffron",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 16,
+      "Category": "Health",
+      "points": 1500
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/612/612/k3dc7m80/chyawanprash/g/v/h/1-special-chyawanprash-with-saffron-patanjali-original-imafmge5jacfytbg.jpeg?q=70",
+      "Name": "PATANJALI Chyawanprash",
+      "Description": "PATANJALI Special Chyawanprash",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 17,
+      "Category": "Health",
+      "points": 1500
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/612/612/k3dc7m80/chyawanprash/g/v/h/1-special-chyawanprash-with-saffron-patanjali-original-imafmge5jacfytbg.jpeg?q=70",
+      "Name": "PATANJALI Chyawanprash",
+      "Description": "PATANJALI Special Chyawanprash",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 18,
+      "Category": "Health",
+      "points": 1500
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/832/832/kqfj1jk0/hammock-swing/m/k/h/pink-0001-flipkart-perfect-homes-studio-original-imag4gyjk4zurqhg.jpeg?q=70",
+      "Name": "Swing Chair",
+      "Description": "Spydergreen Swing Chair With Stand",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 19,
+      "Category": "Outdoor",
+      "points": 1000
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/832/832/kqfj1jk0/hammock-swing/m/k/h/pink-0001-flipkart-perfect-homes-studio-original-imag4gyjk4zurqhg.jpeg?q=70",
+      "Name": "Swing Chair",
+      "Description": "Spydergreen Swing Chair With Stand",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 20,
+      "Category": "Outdoor",
+      "points": 1000
+    },
+    {
+      "Img": "https://rukminim1.flixcart.com/image/832/832/kqfj1jk0/hammock-swing/m/k/h/pink-0001-flipkart-perfect-homes-studio-original-imag4gyjk4zurqhg.jpeg?q=70",
+      "Name": "Swing Chair",
+      "Description": "Spydergreen Swing Chair With Stand",
+      "LongDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "id": 21,
+      "Category": "Outdoor",
+      "points": 1000
+    }
+  ],
+  "AllCategories": [
+    "Electronics",
+    "Health",
+    "Travel",
+    "Outdoor",
+    "Sports"
+  ],
+  "AddtoCart": []
+}
